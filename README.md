@@ -19,6 +19,7 @@ Aunque disfruto explorando todos los aspectos del desarrollo, mi interés princi
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
 
+<!--
 - **Herramientas y frameworks**:  
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
@@ -26,22 +27,27 @@ Aunque disfruto explorando todos los aspectos del desarrollo, mi interés princi
 
 - **Bases de datos**:  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) -->
 
 ---
 
 ### 🚀 **Proyectos en los que he trabajado**  
-Actualmente estoy trabajando en varios proyectos que me ayudan a consolidar mis habilidades y aprender nuevas herramientas. Algunos ejemplos incluyen:  
-- Un sistema de gestión de tareas desarrollado en **Java** usando **Spring Boot** y **MySQL**.  
-- Una aplicación móvil para control de finanzas personales, construida en **Kotlin**.  
+Actualmente, los proyectos en los que trabajo son proyectos de clase en los que uso las tecnologías anteriormente mencionadas y donde poco a poco voy ampliando mis conocimientos en estos campos. Algunos de los proyectos que he desarrollado son:
+- Aplicaciones (y algún juego) sencillas desarrolladas con **JavaFx**.
+- Aplicaciones para dispositivos Android desarrolladas en **Kotlin**, donde se incluye un reloj para partidas de ajedrez y un juego para adivinar palabras
+- Sistemas de gestión de bases de datos desarrolladas en **Java**, donde se incluyen conexiones a distintos tipos de bases de datos (bases de datos Oracle y SQLite (relacionales) y bases de datos MongoDB (no relacionales) y CRUDs con las mismas.
 
 ---
 
 ### 💡 **Intereses adicionales**  
-Cuando no estoy programando, me gusta explorar temas como:  
-- **Inteligencia artificial** y **aprendizaje automático**.  
+<!-- Cuando no estoy programando, me gusta explorar temas como:  -->
+- **Videojuegos**
+- **Baloncesto**, **fútbol**, o **deporte en general**.
+- **Cursos acerca de lenguajes que no manejo** o **nuevos framworks**.
+- Disfrutar del timepo en **familia** o **con amigos**.
+<!-- - **Inteligencia artificial** y **aprendizaje automático**.  
 - **Arquitectura de software** y patrones de diseño.  
-- Participar en **hackathons** y proyectos colaborativos.
+- Participar en **hackathons** y proyectos colaborativos. -->
 
 ---
 
