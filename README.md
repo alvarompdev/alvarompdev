@@ -20,10 +20,10 @@ Aunque disfruto explorando todos los aspectos del desarrollo, mi interés princi
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=dotnet&logoColor=white)  
 
 - **Herramientas y frameworks**:
-  ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
-  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+- ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
+- ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)  
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 
 
 - **Bases de datos**:  
