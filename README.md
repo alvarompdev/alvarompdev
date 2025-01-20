@@ -13,11 +13,18 @@ Aunque disfruto explorando todos los aspectos del desarrollo, mi interés princi
 ---
 
 ### 🛠️ **Tecnologías y habilidades**  
-- **Lenguajes de programación**:  
+- **Lenguajes de programación**:
+  <!--
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+  -->
+
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=coffeescript&logoColor=white) ☕  
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 🐍  
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=dotnet&logoColor=white)  
 
 <!--
 - **Herramientas y frameworks**:  
