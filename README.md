@@ -13,24 +13,23 @@ Aunque disfruto explorando todos los aspectos del desarrollo, mi interés princi
 ---
 
 ### 🛠️ **Tecnologías y habilidades**  
-- **Lenguajes de programación**:
+**Lenguajes de programación**:
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=coffeescript&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=dotnet&logoColor=white)  
 
-- **Herramientas y frameworks**:
+**Herramientas y frameworks**:
 - ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
 - ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)  
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 
-
-- **Bases de datos**:  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+**Bases de datos**:  
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
 ---
