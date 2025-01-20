@@ -32,7 +32,6 @@ Aunque disfruto explorando todos los aspectos del desarrollo, mi interés princi
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
-
 ---
 
 ### 🚀 **Proyectos en los que he trabajado**  
