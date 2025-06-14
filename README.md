@@ -59,11 +59,20 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 
 ---
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=alvarompdev&style=flat-square&color=blue" alt="Visitas al perfil" />  
-</p>  
+### 📊 **Estadísticas de Proyectos y Actividad**
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=alvarompdev&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarompdev&theme=github" alt="Commit Activity" />
+</p>
