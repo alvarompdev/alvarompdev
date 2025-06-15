@@ -70,7 +70,7 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=alvarompdev&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=alvarompdev&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
