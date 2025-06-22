@@ -70,9 +70,5 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alvarompdev&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarompdev&theme=github" alt="Commit Activity" />
 </p>
