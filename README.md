@@ -62,13 +62,15 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 ### 📊 **Estadísticas de Proyectos y Actividad**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Estadísticas de GitHub" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=radical&hide_title=true" alt="Lenguajes Más Usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarompdev&theme=github&hide_title=true" alt="Actividad de Commits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarompdev&theme=github" alt="Commit Activity" />
+  <img src="https://profile-counter.glitch.me/alvarompdev/count.svg" alt="Visitas al Perfil" />
 </p>
