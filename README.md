@@ -71,5 +71,5 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 </p>
 
 <p align="center">
-  **Visitas a este perfil:** <img src="https://profile-counter.glitch.me/alvarompdev/count.svg" alt="Número de visitas a tu perfil de GitHub." />
+  <img src="https://komarev.com/ghpvc/?username=alvarompdev&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Número de visitas a tu perfil de GitHub." />
 </p>
