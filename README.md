@@ -62,15 +62,14 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 ### 📊 **Estadísticas de Proyectos y Actividad**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Estadísticas de GitHub" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=radical&hide_title=true" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Estadísticas generales de tu perfil de GitHub, incluyendo commits y pull requests." />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=radical&hide_title=true" alt="Tus lenguajes de programación más utilizados." />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarompdev&theme=github&hide_title=true" alt="Actividad de Commits" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvarompdev&theme=github&hide_title=true" alt="Gráfico de tu actividad de commits a lo largo del tiempo." />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/alvarompdev/count.svg" alt="Visitas al Perfil" />
+  **Visitas a este perfil:** <img src="https://profile-counter.glitch.me/alvarompdev/count.svg" alt="Número de visitas a tu perfil de GitHub." />
 </p>
