@@ -69,7 +69,9 @@ Apasionado por la tecnología y el desarrollo, creo que **toda gran solución em
 ---
 
 ### 📬 **Conéctate conmigo**
+
 📧 [alvaromp.dev@gmail.com](mailto:alvaromp.dev@gmail.com)
+
 🔗 [linkedin.com/in/alvarompdev](https://www.linkedin.com/in/alvarompdev)
 
 ---
@@ -82,12 +84,13 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 ### 📊 **Estadísticas de GitHub**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarompdev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=alvarompdev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
