@@ -84,9 +84,9 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 ### 📊 **Estadísticas de GitHub**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alvarompdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
