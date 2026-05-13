@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Álvaro Muñoz** 🚀
 ### 💻 **Desarrollador de Software**
-Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma** y **Especialista en Ciberseguridad en Entornos de la Tecnología de la Información**. Mi objetivo es seguir creciendo como desarrollador, especializándome en la creación de soluciones robustas y eficientes en el lado del servidor.
+Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma** y **Especialista en Ciberseguridad en Entornos de la Tecnología de la Información**. Mi objetivo es seguir creciendo como desarrollador, especializándome en la creación de soluciones robustas y eficientes.
 
 ---
 
@@ -12,24 +12,43 @@ Apasionado por la tecnología y el desarrollo, creo que **toda gran solución em
 ### 🛠️ **Tecnologías y habilidades**
 
 **Lenguajes de programación**
+
 ![Java](https://img.shields.io/badge/-Java-007396?logo=coffeescript&logoColor=white)
+&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+---
+
 **Herramientas y frameworks**
+
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
+&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
+---
+
 **Bases de datos**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle%20DB-F80000?logo=oracle&logoColor=white)
+&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
 ---
@@ -63,8 +82,16 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 ### 📊 **Estadísticas de GitHub**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarompdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarompdev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarompdev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alvarompdev&label=Visitas+al+perfil&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
