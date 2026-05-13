@@ -96,11 +96,3 @@ Seguir aprendiendo, creciendo y colaborar en proyectos que marquen la diferencia
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alvarompdev&label=Visitas+al+perfil&color=0e75b6&style=flat" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarompdev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvarompdev&label=Visitas+al+perfil&color=0e75b6&style=flat" />
-</p>
